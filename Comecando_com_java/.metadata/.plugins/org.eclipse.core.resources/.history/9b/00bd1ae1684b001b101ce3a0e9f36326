@@ -1,0 +1,12 @@
+package com.nil.cursojava.orientacao_objetos.heranca;
+
+public class Aluno {
+	
+	private String nome;
+	private String endereco;
+	private String telefone;
+	private String cpf;
+	private String nome;
+	private String curso;
+	private double notas;
+}

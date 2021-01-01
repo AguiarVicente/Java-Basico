@@ -1,0 +1,10 @@
+INDEX VERSION 1.131+/Users/nil/cursos/Java Basico/Comecando_com_java/.metadata/.plugins/org.eclipse.jdt.core
+3770628865.index
+2041998011.index
+165453364.index
+511778345.index
+246503981.index
+2545421207.index
+2651735996.index
+1501972966.index
+3909711658.index

@@ -1,0 +1,22 @@
+package com.nil.cursojava.orientacao_objetos.classes_abstratas;
+
+import com.nil.cursojava.orientacao_objetos.polimorfismo.Aluno;
+import com.nil.cursojava.orientacao_objetos.polimorfismo.Pessoa;
+import com.nil.cursojava.orientacao_objetos.polimorfismo.Professor;
+
+public class Teste {
+
+	public static void main(String[] args) {
+		
+		Pessoa pessoa = new Pessoa();
+		Pessoa aluno = new Aluno();
+		Pessoa professor = new Professor();
+		
+		
+		pessoa.setEndereco("Rua 1, num 1");
+		aluno.setEndereco("Rua 2, num 2");
+		professor.setEndereco("Rua 3, num 3");
+
+	}
+
+}

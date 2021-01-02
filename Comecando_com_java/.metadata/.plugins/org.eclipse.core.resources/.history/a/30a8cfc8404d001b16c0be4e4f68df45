@@ -1,0 +1,8 @@
+package com.nil.cursojava.interfaces_heranca;
+
+public interface BancoDados implements SqlDDL, SqlDML, SqlDCL {
+	
+	void abrirConexao();
+	void fecharConexao();
+	
+}

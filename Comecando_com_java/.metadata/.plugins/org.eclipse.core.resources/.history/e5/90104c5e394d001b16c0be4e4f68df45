@@ -1,0 +1,23 @@
+package com.nil.cursojava.interfaces;
+
+public class Gato extends Mamifero{
+	
+	String raca;
+	
+	public String amamentar() {
+		return "Sim";
+	}
+	
+	public String emitirSom() {
+		return "Miau!";
+	}
+
+	public String getRaca() {
+		return raca;
+	}
+
+	public void setRaca(String raca) {
+		this.raca = raca;
+	}
+	
+}

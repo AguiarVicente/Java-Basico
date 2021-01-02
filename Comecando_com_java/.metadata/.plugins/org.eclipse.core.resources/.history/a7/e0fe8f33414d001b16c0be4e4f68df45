@@ -1,0 +1,8 @@
+package com.nil.cursojava.interfaces_heranca;
+
+public interface BancoDados {
+	
+	void abrirConexao();
+	void fecharConexao();
+	
+}

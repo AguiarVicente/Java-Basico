@@ -1,0 +1,8 @@
+package com.nil.cursojava.interfaces_heranca;
+
+public interface SqlDDL {
+	
+	void create();
+	void drop();
+	void alter();
+}

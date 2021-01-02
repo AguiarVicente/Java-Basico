@@ -1,0 +1,5 @@
+package com.nil.cursojava.interfaces;
+
+public class Mamifero {
+
+}

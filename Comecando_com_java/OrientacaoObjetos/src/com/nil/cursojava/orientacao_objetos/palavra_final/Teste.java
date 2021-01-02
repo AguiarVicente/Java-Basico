@@ -18,7 +18,7 @@ public class Teste {
 		
 		final int TOTAL = 1;
 //		total += 1;
-		System.out.println(total);
+		System.out.println(TOTAL);
 		
 	}
 

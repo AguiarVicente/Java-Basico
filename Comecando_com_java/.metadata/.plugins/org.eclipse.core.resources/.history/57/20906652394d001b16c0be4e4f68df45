@@ -1,0 +1,13 @@
+package com.nil.cursojava.interfaces;
+
+public abstract class Papagaio extends Ave {
+	
+	public void voar() {
+		return "a";
+	}
+	
+	public String emitirSom() {
+		return "b";
+	}
+	
+}

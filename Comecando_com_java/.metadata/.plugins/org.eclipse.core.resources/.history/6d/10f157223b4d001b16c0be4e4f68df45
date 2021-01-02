@@ -1,0 +1,15 @@
+package com.nil.cursojava.interfaces;
+
+public class Cavalo extends Mamifero{
+	
+	public void amamentar() {
+		return "Sim";
+	}
+
+	@Override
+	public void emitirSom() {
+		// TODO Auto-generated method stub
+		
+	}
+	
+}

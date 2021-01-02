@@ -1,0 +1,18 @@
+package com.nil.cursojava.interfaces;
+
+public class Cachorro extends Mamifero {
+	
+	String tamanho;
+	String raca;
+	
+	public String amamentar() {
+		return "Sim";
+	}
+	
+	public String emitirSom() {
+		return "Au Au!";
+	}
+	
+	
+	
+}

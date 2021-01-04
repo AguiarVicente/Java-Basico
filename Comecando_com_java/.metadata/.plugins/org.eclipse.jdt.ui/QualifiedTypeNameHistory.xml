@@ -3,7 +3,6 @@
     <fullyQualifiedTypeName name="com.sun.tools.javac.parser.Scanner"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.oops.java_lang_Class"/>
     <fullyQualifiedTypeName name="sun.jvm.hotspot.gc.parallel.PSYoungGen"/>
-    <fullyQualifiedTypeName name="java.util.Scanner"/>
     <fullyQualifiedTypeName name="java.util.Random"/>
     <fullyQualifiedTypeName name="com.nil.cursojava.orientacao_objetos.modificadores_de_acesso_alt.TesteCarroAlt"/>
     <fullyQualifiedTypeName name="com.nil.cursojava.orientacao_objetos.modificadores_de_acesso.Carro"/>
@@ -15,4 +14,10 @@
     <fullyQualifiedTypeName name="com.nil.cursojava.interfaces.AnimalDomesticado"/>
     <fullyQualifiedTypeName name="java.lang.Object"/>
     <fullyQualifiedTypeName name="com.nil.cursojava.interfaces_heranca.BancoDados"/>
+    <fullyQualifiedTypeName name="java.lang.ArithmeticException"/>
+    <fullyQualifiedTypeName name="java.lang.Throwable"/>
+    <fullyQualifiedTypeName name="java.lang.ArrayIndexOutOfBoundsException"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.Exception"/>
+    <fullyQualifiedTypeName name="criandoException.DivisaoNaoExata"/>
 </qualifiedTypeNameHistroy>

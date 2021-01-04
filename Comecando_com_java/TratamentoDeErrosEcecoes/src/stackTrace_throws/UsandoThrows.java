@@ -10,6 +10,7 @@ public class UsandoThrows {
 		try {
 			double num = lerNumero();
 			System.out.println("Você digitou o numero: " + num);
+			System.out.println();
 		}catch (Exception e) {
 
 			System.out.println("Entrada inválida");
